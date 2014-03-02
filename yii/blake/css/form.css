@@ -162,3 +162,10 @@ div.wide.form .buttons, div.wide.form .hint, div.wide.form .errorMessage
 	clear: left;
 	padding-left: 110px;
 }
+
+element.style {
+height: 82px;
+background-color: rgb(0, 0, 255);
+width: 62px;
+background-url: blue;
+}
